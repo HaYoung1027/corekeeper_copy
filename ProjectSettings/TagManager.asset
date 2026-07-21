@@ -56,6 +56,9 @@ TagManager:
   - name: UI
     uniqueID: 4111867497
     locked: 0
+  - name: Particle
+    uniqueID: 961956139
+    locked: 0
   m_RenderingLayers:
   - Default
   m_MigratedRenderPipelines: []
